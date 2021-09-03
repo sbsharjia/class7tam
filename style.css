@@ -1,0 +1,48 @@
+.website{
+    width: 450px;
+    height: 200px;
+    background-color: #7d4b4b;
+    margin-top: 30px;
+    overflow: hidden;
+    border-radius: 0 45px 45px 0;
+    margin-left: 70px; 
+    padding: 70px;
+    color: #e8d5d5;
+    text-transform: capitalize;
+}
+.website h1{
+    font-size: 35px;
+    text-align: center;
+}
+.websiteseo{
+    width: 450px;
+    height: 200px;
+    background-color: #4f7d4b;
+    margin-left: 450px;
+    border-radius: 45px 0 0 45px;
+    overflow: hidden;
+    margin-top: 10px;
+    padding: 70px;
+}
+.websiteseo h1{
+    color: #e8d5d5;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 35px;  
+}
+.optimization{
+    width: 450px;
+    height: 200px;
+    background-color: #340e9d;
+    border-radius: 0 45px 45px 0;
+    margin-left: 70px; 
+    padding: 70px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+.optimization h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 35px;
+    text-transform: capitalize;
+}
